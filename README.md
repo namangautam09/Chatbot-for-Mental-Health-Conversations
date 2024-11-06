@@ -14,8 +14,8 @@ By utilizing this dataset, researchers and developers can train chatbot models t
 
 DATA PREPARATION
 
-Load the dataset into a suitable data structure (e.g., Pandas DataFrame).
+1.Load the dataset into a suitable data structure (e.g., Pandas DataFrame).
 
-Examine the dataset to understand its structure and distribution.
+2.Examine the dataset to understand its structure and distribution.
 
-Preprocess the data by removing unnecessary characters, converting text to lowercase, and handling any missing values.
+3.Preprocess the data by removing unnecessary characters, converting text to lowercase, and handling any missing values.
